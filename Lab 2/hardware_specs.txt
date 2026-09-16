@@ -1,1 +1,6 @@
-
+Computer Type      : ASUS TUF Gaming A15 (FA506IU)
+CPU                : AMD Ryzen 7 4800H
+Memory             : 16 GB
+OS                 : Windows 11 Home 25H2 (Build 26200.9457)
+HD                 : 477 GB
+Display Resolution : 1920x1080
